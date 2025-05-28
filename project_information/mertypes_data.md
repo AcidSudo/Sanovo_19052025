@@ -19,3 +19,6 @@ The machines have the following number of lanes:
     Machine 16589: 18 lanes
 
 I have also added a new data export covering January 1st – February 24th to the ZIP file. Around week 7, a software update was performed, accidentally resetting all counters to zero.
+
+
+Machine stop merTypr 8 > reason for stop pressure control (96) lane 18 > reason for pressure control lane 18 is because of a lot of reroutes (98) > reason for the (98) are the lane stops > which are mostly 490,411,453,414,460,452 > mostly lane 12
